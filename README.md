@@ -1,5 +1,4 @@
-# data-science-infering-modeling
-HarvardX PH125.4x ; Data Science: Infering and Modeling
+# HarvardX PH125.4x ; Data Science: Infering and Modeling
 
 
 This is the fourth in a series of courses in the Professional Certificate in Data Science program. The courses in the Professional Certificate program are designed to prepare you to do data analysis in R, from simple computations to machine learning. We recommend that you complete the first three courses in the series (Data Science: R Basics, Data Science: Visualization, and Data Science: Probability) before taking this course.
@@ -28,4 +27,4 @@ In this course, you will learn:
 
 * The concepts necessary to define estimates and margins of errors of populations, parameters, estimates, and standard errors in order to make predictions about data.
 * How to use models to aggregate data from different sources
-* The very basics of Bayesian statistics and predictive modeling
+* The very basics of Bayesian statistics and predictive modeling.
